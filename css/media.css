@@ -36,6 +36,7 @@
 @media screen and (min-width: 600px){
     .icon-card-wrapper{
         grid-template-columns: repeat(3, 1fr);
+        padding: 50px 100px;
     }
 }
 
