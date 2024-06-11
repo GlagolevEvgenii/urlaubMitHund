@@ -38,6 +38,10 @@
         grid-template-columns: repeat(3, 1fr);
         padding: 50px 100px;
     }
+    .swiper-pagination-bullet {
+        height: 20px !important;
+        width: 20px !important;
+    }
 }
 
 @media screen and (min-width: 769px) {
@@ -143,7 +147,7 @@
         line-height: 19px;
     }
     .swiper {
-        height:753px;
+        height:853px;
     }
     .swiper-button-next, .swiper-button-prev {
         display: flex!important;

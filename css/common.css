@@ -140,6 +140,9 @@ img {
     -webkit-transition: all 200ms ease-in-out;
     transition: all 200ms ease-in-out
 }
+.text-center{
+    text-align: center;
+}
 
 .text--underline:hover,.text--underline:focus,.text--underline:active {
     color: #061e46;
@@ -169,8 +172,8 @@ img {
 }
 
 .swiper-pagination-bullet {
-    height: 20px !important;
-    width: 20px !important;
+    height: 15px !important;
+    width: 15px !important;
     background-color: #E2F3FE !important;
     opacity: 1 !important;
 }
